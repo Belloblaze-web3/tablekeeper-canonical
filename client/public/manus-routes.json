@@ -1,0 +1,6 @@
+{
+  "routes": [
+    { "path": "/", "title": "Tablekeeper restaurant reservations" },
+    { "path": "/reservations", "title": "Your Tablekeeper reservations" }
+  ]
+}
